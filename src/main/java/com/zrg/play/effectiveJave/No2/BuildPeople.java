@@ -3,7 +3,7 @@ package com.zrg.play.effectiveJave.No2;
 import lombok.Data;
 
 /**
- * Builder模式 创建对象
+ * Builder模式  构建器  创建对象
  * <p>
  * 创建 / 销毁对象
  * author: Snail
